@@ -10,6 +10,7 @@
 | Preview | Download | Description | Author |
 |:-------:|:--------:| ----------- |:------:|
 | ![Preview of "aurebesh.bin"](custom/aurebesh.png?raw=true "aurebesh.bin") | [aurebesh.bin](custom/aurebesh.bin?raw=true) | Custom font for the C64 based on [Aurebesh](https://starwars.fandom.com/wiki/Aurebesh/Legends), the main writing system depicted in Star Wars. Includes upper and lowercase letters (based on Legends rules), numbers, and symbols.| [Patrick Mollohan](https://github.com/patrickmollohan) |
+| ![Preview of "zx_spectrum.bin"](custom/zx_spectrum.png?raw=true "zx_spectrum.bin") | [zx_spectrum.bin](custom/zx_spectrum.bin?raw=true) | The font, as found on the ZX Spectrum, ported to the Commodore 64. Includes upper and lowercase letters, numbers, and symbols.| Sinclair + [Patrick Mollohan](https://github.com/patrickmollohan) |
 
 # Usage
 ## Using on Real Hardware
