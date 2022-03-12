@@ -2,16 +2,16 @@
  Fonts for the Commodore 64.
 
 ## Official
-| Preview | Download | Description | Author |
+| Preview (Graphics Mode) | Download | Description | Author |
 |:-------:|:--------:| ----------- |:------:|
-| ![Preview of "c64.bin"](original/c64.png?raw=true "c64.bin") | [c64.bin](original/c64.bin?raw=true) | Default Commodore 64/128 character set, as found on the MOS 901225-01. | Commodore |
+| ![Preview of graphics mode for "c64.bin"](original/c64_graphics.png?raw=true "c64.bin (Graphics Mode)") [View text mode](original/c64_text.png?raw=true) | [c64.bin](original/c64.bin?raw=true) | Default Commodore 64/128 character set, as found on the MOS 901225-01. | Commodore |
 
 ## Custom
-| Preview | Download | Description | Author |
+| Preview (Graphics Mode) | Download | Description | Author |
 |:-------:|:--------:| ----------- |:------:|
-| ![Preview of graphics mode for "apple_ii.bin"](custom/apple_ii_graphics.png?raw=true "apple_ii.bin (Graphics Mode)") ![Preview of text mode for "apple_ii.bin"](custom/apple_ii_text.png?raw=true "apple_ii.bin (Text Mode)") | [apple_ii.bin](custom/apple_ii.bin?raw=true) | Apple II/II+ font ported to the Commodore 64. Includes upper and lowercase letters, numbers, and symbols.| Apple + [Patrick Mollohan](https://github.com/patrickmollohan) |
-| ![Preview of "aurebesh.bin"](custom/aurebesh.png?raw=true "aurebesh.bin") | [aurebesh.bin](custom/aurebesh.bin?raw=true) | Custom font for the C64 based on [Aurebesh](https://starwars.fandom.com/wiki/Aurebesh/Legends), the main writing system depicted in Star Wars. Includes upper and lowercase letters (based on Legends rules), numbers, and symbols.| [Patrick Mollohan](https://github.com/patrickmollohan) |
-| ![Preview of "zx_spectrum.bin"](custom/zx_spectrum.png?raw=true "zx_spectrum.bin") | [zx_spectrum.bin](custom/zx_spectrum.bin?raw=true) | The font, as found on the ZX Spectrum, ported to the Commodore 64. Includes upper and lowercase letters, numbers, and symbols.| Sinclair + [Patrick Mollohan](https://github.com/patrickmollohan) |
+| ![Preview of graphics mode for "apple_ii.bin"](custom/apple_ii_graphics.png?raw=true "apple_ii.bin (Graphics Mode)") [View text mode](custom/apple_ii_text.png?raw=true) | [apple_ii.bin](custom/apple_ii.bin?raw=true) | Apple II/II+ font ported to the Commodore 64. Includes upper and lowercase letters, numbers, and symbols.| Apple + [Patrick Mollohan](https://github.com/patrickmollohan) |
+| ![Preview of graphics mode for "aurebesh.bin"](custom/aurebesh_graphics.png?raw=true "aurebesh.bin (Graphics Mode)") [View text mode](custom/aurebesh_text.png?raw=true) | [aurebesh.bin](custom/aurebesh.bin?raw=true) | Custom font for the C64 based on [Aurebesh](https://starwars.fandom.com/wiki/Aurebesh/Legends), the main writing system depicted in Star Wars. Includes upper and lowercase letters (based on Legends rules), numbers, and symbols.| [Patrick Mollohan](https://github.com/patrickmollohan) |
+| ![Preview of graphics mode for "zx_spectrum.bin"](custom/zx_spectrum_graphics.png?raw=true "zx_spectrum.bin (Graphics Mode)") [View text mode](custom/zx_spectrum_text.png?raw=true) | [zx_spectrum.bin](custom/zx_spectrum.bin?raw=true) | The font, as found on the ZX Spectrum, ported to the Commodore 64. Includes upper and lowercase letters, numbers, and symbols.| Sinclair + [Patrick Mollohan](https://github.com/patrickmollohan) |
 
 # Usage
 ## Using on Real Hardware
